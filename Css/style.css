@@ -1,0 +1,23 @@
+.logo-img {
+    width: 70px;
+    height: 30px;
+    object-fit: cover;
+}
+
+.navbar-custom {
+    background: blueviolet;
+    
+}
+.bg-custom {
+    background: #018c9b;
+}
+.custom-hero {
+    background: url('../Assets/img/heroimg.jpg') center/cover no-repeat;
+    height: 70vh;
+    width: 100%;
+}
+.bg-card-custom {
+    background: url('../Assets/img/heroimg.jpg') center/cover no-repeat;
+
+    background-attachment: fixed;
+}
