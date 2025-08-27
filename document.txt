@@ -1,0 +1,205 @@
+1) Home (Landing) – index.html
+Meta title: DelishBite | Taste of Happiness in Every Bite
+Meta description: Modern family-friendly restaurant in Chennai serving fresh, handcrafted dishes. Dine-in, takeaway, and delivery. Book a table online.
+Hero (H1): Experience the Taste of Happiness
+Subheadline: Fresh ingredients. Homestyle recipes. A cozy ambience made for memories.
+CTAs: View Menu | Book a Table
+Trust Strip (logos or bullets):
+•	100% Fresh Ingredients • Hygienic Kitchen • Family Seating • Vegan & Jain Options
+Section – Highlights (H2): Why You’ll Love Us
+•	Delicious Variety: From classic Indian mains to global comfort food.
+•	Fresh & Honest: We cook from scratch—no shortcuts.
+•	Cozy Ambience: Perfect for families, dates, and celebrations.
+•	Fuss-Free Service: Quick dine-in, easy takeaway, fast delivery.
+Section – Chef’s Picks (H2): This Week’s Favorites (use 3 cards)
+•	Smoky Tandoori Platter – A sizzling selection of kebabs with mint chutney.
+•	Truffle Alfredo Pasta – Silky, rich, and perfectly seasoned.
+•	Paneer Tikka Masala – Cottage cheese in a creamy tomato gravy.
+Section – Testimonials (H2): What Guests Say
+•	“The best dinner we’ve had this year!” — Ramesh K. ⭐⭐⭐⭐⭐
+•	“Warm service and truly delicious food.” — Priya S. ⭐⭐⭐⭐⭐
+•	“Perfect for a family gathering.” — Amit P. ⭐⭐⭐⭐⭐
+Section – Quick Reservation (H2): Reserve Your Table
+Short copy: Pick your date, time, and guests—we’ll save your favorite spot.
+CTA: Book Now
+Footer Snippet:
+•	Address: 123 Food Street, Chennai, Tamil Nadu
+•	Hours: Mon–Thu 12:00–22:00 • Fri–Sun 12:00–23:30
+•	Phone: +91 98765 43210 • Email: hello@delishbite.com
+________________________________________
+2) Menu – menu.html
+Meta title: Menu | DelishBite
+Meta description: Explore our starters, mains, biryanis, pastas, desserts, and beverages. Veg, vegan, and Jain options available.
+Hero (H1): Our Menu
+Subheadline: Crafted with care, served with love. Choose your cravings.
+Prices are examples; tweak as you like.
+Starters (H2):
+•	Tandoori Paneer Tikka – Char-grilled paneer with bell peppers. ₹279
+•	Chicken Malai Kebab – Creamy, melt-in-mouth kebabs. ₹319
+•	Crispy Corn Pepper Salt – Tossed with spring onions & spice. ₹239
+•	Bruschetta Trio – Tomato-basil, mushroom-garlic, pesto. ₹229
+Indian Mains (H2):
+•	Butter Chicken – Silky tomato gravy, tender chicken. ₹349
+•	Paneer Tikka Masala – Creamy, tangy, and smoky. ₹329
+•	Dal Makhani – Slow-cooked black lentils, butter finish. ₹259
+•	Veg Kadai – Seasonal veggies in kadai masala. ₹279
+Biryani & Rice (H2):
+•	Hyderabadi Chicken Biryani – Aromatic basmati, raita. ₹329
+•	Veg Dum Biryani – Fragrant layers, whole spices. ₹289
+•	Jeera Rice – Lightly spiced cumin rice. ₹169
+•	Tandoori Roti / Butter Naan – ₹39 / ₹59
+Pastas & Global (H2):
+•	Penne Alfredo (Veg/Chicken) – Classic creamy sauce. ₹299/₹339
+•	Arrabbiata – Spicy tomato, olives, herbs. ₹279
+•	Grilled Peri-Peri Chicken – With buttered veggies. ₹359
+Salads (H2):
+•	Greek Salad – Feta, olives, cucumber, oregano. ₹249
+•	Super Green Bowl – Lettuce, avocado, sprouts, lemon dressing. ₹269
+Desserts (H2):
+•	Gulab Jamun with Rabri ₹179
+•	Baked Cheesecake (Slice) ₹199
+•	Chocolate Lava Cake ₹199
+Beverages (H2):
+•	Masala Chaas ₹89 • Fresh Lime Soda ₹99
+•	Cold Coffee ₹159 • Iced Tea (Peach/Lemon) ₹139
+•	Mocktails: Virgin Mojito / Sunrise Cooler / Berry Fizz ₹179
+Allergens & Preferences (H2):
+Vegan, Jain, and gluten-free options available. Please inform your server.
+________________________________________
+3) About Us – about.html
+Meta title: About DelishBite | Our Story & Values
+Meta description: Discover our story, philosophy, and the team behind DelishBite.
+Hero (H1): More Than Food—An Experience
+Intro: DelishBite began with a simple idea: great food, made fresh, served warm—just like home.
+Our Philosophy (H2):
+•	Freshness First: We source locally whenever possible.
+•	Craft Over Shortcuts: Stocks, sauces, and spice blends are made in-house.
+•	People & Place: A welcoming space where everyone feels at home.
+Meet the Chef (H2):
+Chef Aanya Sharma brings 12+ years of experience, blending traditional Indian techniques with global comfort classics.
+Sustainability (H2):
+•	Seasonal menus, minimized waste, eco-friendly packaging for deliveries.
+CTA: Explore the Menu | Book a Table
+________________________________________
+4) Specials & Offers – specials.html
+Meta title: Specials | Weekly Picks & Combos
+Meta description: Don’t miss our weekly chef’s specials, lunch combos, and festive menus.
+Hero (H1): This Week’s Specials
+Copy: Curated by our chef—limited-time dishes and value combos.
+Chef’s Specials (H2):
+•	Smoked Butter Chicken – Slow-smoked twist on the classic. ₹379
+•	Charred Broccoli & Almonds – With lemon garlic butter. ₹269
+Combos (H2):
+•	Lunch Express (Mon–Fri, 12–3pm): Starter + Main + Dessert ₹299
+•	Family Feast for 4: 2 starters + 2 mains + 4 naan + dessert ₹1199
+Festive Menus (H2):
+•	Diwali & New Year tasting menus—watch this space.
+CTA: Reserve for Specials
+________________________________________
+5) Reviews – reviews.html
+Meta title: Reviews | What Guests Say
+Meta description: Read honest guest reviews and ratings for DelishBite.
+Hero (H1): Loved by Food Lovers
+Sub: Real reviews from our guests.
+Guest Highlights (H2):
+•	“Authentic flavors, quick service. Will return!” — Meera V. ⭐⭐⭐⭐⭐
+•	“Ambience is cozy and family-friendly.” — Arjun D. ⭐⭐⭐⭐⭐
+•	“Paneer tikka was outstanding.” — Sana R. ⭐⭐⭐⭐☆
+•	“Great value lunch combos.” — Naveen P. ⭐⭐⭐⭐⭐
+CTA: Book a Table | Order Online
+________________________________________
+6) Reservations – reservations.html
+Meta title: Book a Table | DelishBite
+Meta description: Reserve your table online—fast and simple. Special requests welcome.
+Hero (H1): Reserve Your Table
+Sub: Pick a date, time, and guests. We’ll take care of the rest.
+Reservation Info (H2):
+•	Hours: Mon–Thu 12:00–22:00 • Fri–Sun 12:00–23:30
+•	Seating: Indoor AC & limited outdoor seating
+•	Groups: For 8+ guests, call +91 98765 43210
+Policies (H2):
+•	15-minute grace period.
+•	Tell us about allergies in advance.
+•	No outside food (cakes allowed with prior notice).
+Form Labels: Name, Email, Phone, Date, Time, Guests, Special Requests
+CTA: Confirm Reservation
+________________________________________
+7) Contact & Location – contact.html
+Meta title: Contact Us & Location | DelishBite
+Meta description: Reach us for reservations, events, or feedback. Map, hours, and parking info.
+Hero (H1): We’d Love to Hear From You
+Address Block (H2):
+•	Address: 123 Food Street, Chennai, Tamil Nadu
+•	Phone: +91 98765 43210
+•	Email: hello@delishbite.com
+•	Hours: Mon–Thu 12:00–22:00 • Fri–Sun 12:00–23:30
+Getting Here (H2):
+•	Parking available after 6 PM; valet on weekends.
+•	Landmark: Opposite City Park Mall.
+Delivery Partners (H2): Swiggy • Zomato • In-house pickup
+CTA: Get Directions | Call Now
+Contact Form (H2):
+Name, Email, Phone, Message
+CTA: Send Message
+________________________________________
+8) Events & Catering – events.html
+Meta title: Events & Catering | Parties, Corporate, Home
+Meta description: Custom menus and full-service catering for birthdays, corporate meets, and intimate gatherings.
+Hero (H1): Make Your Moments Delicious
+Event Types (H2): Birthdays • Anniversaries • Corporate Lunches • House Parties
+Packages (H2):
+•	Bronze (₹699/person): 2 starters, 2 mains, 1 dessert, breads, rice
+•	Silver (₹899/person): 3 starters, 3 mains, salads, 2 desserts
+•	Gold (₹1199/person): Live counter + premium desserts
+Add-Ons (H2): Decor, Live Music, Custom Cakes
+CTA: Get a Catering Quote
+________________________________________
+9) Gallery – gallery.html
+Meta title: Gallery | Ambience & Dishes
+Meta description: Peek into our cozy ambience and signature dishes.
+Hero (H1): A Visual Taste
+Sub: Dishes, spaces, smiles.
+Captions for images:
+•	“Chef’s Tandoori Platter fresh off the grill”
+•	“Cozy corner seating for two”
+•	“Family table ready for celebration”
+•	“Chocolate lava cake—crowd favorite”
+________________________________________
+10) Careers – careers.html
+Meta title: Careers at DelishBite | Join Our Team
+Meta description: Work with a passionate team that believes in great food and warm hospitality.
+Hero (H1): Grow With Us
+Culture (H2): Respect, learning, and teamwork in every role.
+Open Roles (H2):
+•	Commis Chef (Hot/Cold Kitchen)
+•	Service Associate (Front-of-House)
+•	Barista
+•	Kitchen Steward
+Perks (H2): Meals • Training • Staff Discounts • Flexible Schedules
+CTA: Apply Now (Name, Email, Phone, Role, Resume link/attach)
+________________________________________
+11) FAQ – faq.html
+Meta title: FAQ | Dining, Delivery, Reservations
+Meta description: Answers to the most common questions about dining at DelishBite.
+Hero (H1): Frequently Asked Questions
+Accordion Q&A (H2):
+1.	Do you take online reservations? Yes—use our reservation page or call us.
+2.	Do you have vegan/Jain options? Yes, marked with (Vg)/(J).
+3.	Do you deliver? Yes via Swiggy, Zomato, and pickup.
+4.	Is parking available? Yes; valet on weekends.
+5.	Can you host large groups? Absolutely—contact our events team.
+6.	Do you allow outside cakes? Yes with prior notice; plating fee may apply.
+7.	Are pets allowed? Pets are welcome in outdoor seating.
+8.	Do you provide GST invoices? Yes, on request.
+9.	What payment modes are accepted? UPI, cards, and cash.
+10.	How do I share feedback? Use the contact form or email hello@delishbite.com.
+________________________________________
+Global CTAs (use in navbar/footer)
+•	View Menu • Book a Table • Order Online • Call Now
+Footer (reuse across pages)
+•	DelishBite — Taste of Happiness
+•	Address, hours, phone, email
+•	Quick Links: Home • Menu • Specials • Reservations • Events • Contact • Careers • FAQ
+•	Social: Instagram • Facebook • Google Maps
+•	Copyright © 2025 DelishBite. All rights reserved.
+
